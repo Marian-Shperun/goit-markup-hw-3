@@ -283,10 +283,10 @@ Fixed styles
   margin-top: 95px;
 }
 .menu {
-  width: 611px;
+  min-width: 611px;
 
   display: flex;
-  margin: 0 auto;
+  justify-content: center;
   margin-bottom: 50px;
   list-style: none;
 }
