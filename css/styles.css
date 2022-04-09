@@ -308,8 +308,8 @@ img {
   flex-wrap: wrap;
 }
 .portfolio-list .portfolio-item {
-  
-  flex-basis: calc((100% / 3) - 20px);
+  width: 370px;
+  /* flex-basis: calc((100% / 3) - 30px); */
 }
 
 .portfolio-img-work {
